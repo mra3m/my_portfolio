@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu alaikum, I'm Ahmod Al Arafat Mukta</h1>
 
 <p align="center">
-  <img src="https://your-image-url.com/profile.jpg" width="150" height="150" style="border-radius: 50%;" alt="Marin's Profile Picture"/>
+  <img src="https://imgur.com/a/x7YLhSJ" width="150" alt="Arafat's Profile Picture" style="border-radius: 50%;" />
 </p>
 
 I'm a passionate **Full Stack Developer** with a focus on building scalable web applications from front to back. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
